@@ -1,9 +1,8 @@
 ## Hi there 👋
-
 <!--
 **smOH306/smOH306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+-->
 <h1 align="center">🚀 Hi! I'm Oh Seungmin 🚀</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst+%7C+Engineer;From+Data+to+Decisions;Turning+Data+into+Insights" alt="Typing SVG" />
