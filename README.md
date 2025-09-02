@@ -20,7 +20,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Tistory-ohstohry-orange?style=flat-square&logo=tistory&logoColor=white" />
   </a>
 </p>
-Tech : 한 번 이상 다루어 본 기술&툴들 
+
+
+
+---
+
+## Summary :grey_exclamation:
+> **2026년 상반기 취업 목표**  
+---
+
+## Skills :muscle:
+### Tech : 한 번 이상 다루어 본 기술&툴들 
 <div align=center>     
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -67,3 +77,29 @@ Tech : 한 번 이상 다루어 본 기술&툴들
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+
+
+- SQL을 통한 데이터 정제 및 가공, 분석 경험
+- Numpy, Matplotlib을 이용한 데이터 처리 경험
+- Pandas를 이용한 데이터 처리 경험
+- R을 이용한 데이터 이용 및 데이터 전처리 경험
+- R을 이용한 T-test 및 분산분석
+
+## Career :star: 
+X
+
+---
+
+## Education & Certifications :bulb:
+### KT 에이블스쿨 DX트랙 7기 (2025.03 ~ 2025.09)
+-  KT 에이블스쿨 DX트랙 7기 수료
+
+### 단국대 응용통계학과/경영학부 경영학전공(2020.03 ~ 2025.02)  
+- **학점**: 4.13/4.5  
+  - **데이터사이언스 모듈**, **디지털비즈니스 모듈** 이수
+
+### Certs 
+- ✅ ADsP(2024), SQLD(2025)
+- ⏳ TOEIC® Speaking, 빅데이터 분석기사 (필기)
+
+
