@@ -1,12 +1,8 @@
-## Hi there 👋
 <!--
 **smOH306/smOH306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 <h1 align="center">🚀 Hi! I'm Oh Seungmin 🚀</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst+%7C+Engineer;From+Data+to+Decisions;Turning+Data+into+Insights" alt="Typing SVG" />
-</p>
 <p align="center">
   <a href="mailto:osm630@naver.com">
     <img src="https://img.shields.io/badge/Email-osm630%40naver.com-red?style=flat-square&logo=mail&logoColor=white" />
@@ -24,20 +20,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Tistory-ohstohry-orange?style=flat-square&logo=tistory&logoColor=white" />
   </a>
 </p>
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=smOH306&show_icons=true&theme=dracula" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smOH306&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
-</p>
-<br><br>
-<p align="center">
-  <!-- GitHub Metrics -->
-  <img src="/github-metrics.svg" alt="Metrics" />
-</p>
-## Skills :muscle:
-### Tech : 한 번 이상 다루어 본 기술&툴들 
+Tech : 한 번 이상 다루어 본 기술&툴들 
 <div align=center>     
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
