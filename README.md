@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 - R을 이용한 T-test 및 분산분석
 
 ## Career :star: 
-X
+
 
 ---
 
